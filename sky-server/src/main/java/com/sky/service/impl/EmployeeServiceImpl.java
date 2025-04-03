@@ -62,7 +62,7 @@ public class EmployeeServiceImpl implements EmployeeService {
     }
 
     /**
-     * 新增员工业务方法8
+     * 新增员工业务方法
      * @param employeeDTO
      */
     @Override
